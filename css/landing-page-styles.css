@@ -1,0 +1,36 @@
+body {
+  align-content: center;
+  background-color: #D7BDE2;
+}
+h1 {
+  text-align: center;
+  color: blue;
+  size: 23px;
+}
+h2 {
+  text-align: center;
+  text-size: 15;
+  color: brown;
+  text-font: Arial;
+}
+h3 {
+  text-align: left;
+  color: green;
+}
+.name {
+  color: red;
+  text-size: 14px;
+}
+img {
+  width: max-width;
+  height: 500px;
+  length: 500px;
+  align: center;
+  align-items: center;
+}
+p {
+  align: left;
+  text-emphasis-color: brown;
+}
+p {align: center;
+}

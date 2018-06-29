@@ -1,0 +1,21 @@
+body {
+  align-content: center;
+  background-color: light-grey
+}
+h1 {
+  background-color: light-grey;
+  text-align: center;
+  text-font: Arial;
+  text-size: 23;
+  text-color: green;
+}
+h2 {
+  text-align: center;
+  text-size: 15;
+  text-color: black;
+  text-font: Arial;
+}
+h3 {
+  text-align: center;
+  text-color: blue;
+}
